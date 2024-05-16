@@ -1,6 +1,6 @@
 import { setLS, getLS, savePhotoIdLS, includesPhotoId, findPhotoId, removeLikeLS, saveLikesPhoto } from "./ls.js";
 
-const APIKey = 'Nv6dAHUe_4Z37VzYuS_mTYr2ciTSRUIySR_7Yfbjumo';
+const APIKey = '';
 let isFetching = false;
 let page = 1;
 const iconLike = `<?xml version="1.0" encoding="UTF-8"?>
